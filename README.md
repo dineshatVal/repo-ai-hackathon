@@ -55,7 +55,7 @@ You should:
 - Use asyncio and subprocess efficiently.
 - Include logging where useful.
 - Avoid redundant API calls.
-- Ensure minimal memory/cpu use in long-running loops.
+- Ensure minimal memory/cpu use in long-running loops. Test
 
 Extra task:
 - Optionally, integrate a dashboard or simple CLI for visualizing violations and PR statuses (bonus points 😎).
